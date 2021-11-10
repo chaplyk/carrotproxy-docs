@@ -1,0 +1,11 @@
+state: enabled
+email: bogdan.chaplyk@gmail.com
+fullname: 'Bohdan Chaplyk'
+title: Administrator
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$rqp98MKMmBZ6Ahxq6Y1y/eKI30Ivld9MQRKLPEGCp9JXhZe2VLh4W
