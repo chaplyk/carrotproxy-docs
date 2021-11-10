@@ -1,0 +1,36 @@
+enabled: true
+folders:
+  - pages
+  - themes
+  - plugins
+  - config
+  - data
+  - accounts
+SyncNotice: null
+sync:
+  on_save: true
+  on_delete: true
+  on_media: true
+  cron_enable: false
+  cron_at: '0 12,23 * * *'
+local_repository: null
+repository: 'https://github.com/chaplyk/carrotproxy-docs.git'
+no_user: '0'
+user: bogdan.chaplyk@gmail.com
+password: gitsync-def502009dc57e5de7cc4136228b1a0d2b12ff1a977b23a4fc8a0854ffdbf9e98dc9c7f34aa271e48fb2f1f50982012dc5090fed4e300fdcc9176ca04dc56d2391e279e0b607f983310b6c78269d4203419c3a991ce74fba941700ea2a5150e19093ee3628b0e558e0c43d3f38680efe79b2d41762c70501ff80fa49
+webhook: /_git-sync-75d774b30c62
+webhook_enabled: '0'
+webhook_secret: cbe17c260cf9d6ca15f45f479cbc95c320e943b2901bc737
+branch: main
+remote:
+  name: origin
+  branch: main
+git:
+  author: gituser
+  message: '(Grav GitSync) Automatic Commit'
+  name: GitSync
+  email: git-sync@trilby.media
+  bin: git
+  ignore: null
+  private_key: null
+logging: false

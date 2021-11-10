@@ -1,0 +1,17 @@
+enabled: true
+active: null
+active_admin: null
+admin_pages_only: null
+parser: null
+include_default_shortcodes: true
+css:
+  notice_enabled: null
+custom_shortcodes: null
+fontawesome:
+  load: null
+  url: null
+  v5: null
+nextgen-editor:
+  env: production
+  dev_host: localhost
+  dev_port: 2001
