@@ -1,6 +1,6 @@
 ---
 title: 'Privacy Policy'
-visible: true
+visible: false
 ---
 
 1. Terms
