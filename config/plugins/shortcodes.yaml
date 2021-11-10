@@ -1,0 +1,27 @@
+enabled: true
+shortcodes:
+  assets:
+    enabled: null
+    options:
+      type: null
+      inline: null
+      priority: null
+      pipeline: null
+      load: null
+  comment:
+    enabled: null
+  embed:
+    enabled: null
+    options:
+      template: null
+  markdown:
+    enabled: null
+    options:
+      extra: null
+      auto_line_breaks: null
+      auto_url_links: null
+      escape_markup: null
+  summary:
+    enabled: null
+  twig:
+    enabled: null

@@ -1,0 +1,7 @@
+enabled: true
+theme:
+  tabs: null
+nextgen-editor:
+  env: production
+  dev_host: localhost
+  dev_port: 2002
