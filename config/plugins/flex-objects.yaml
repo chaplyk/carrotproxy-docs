@@ -1,0 +1,9 @@
+enabled: true
+built_in_css: null
+extra_admin_twig_path: null
+admin_list:
+  per_page: 15
+  order:
+    by: updated_timestamp
+    dir: desc
+directories: null
