@@ -5,7 +5,6 @@ folders:
   - plugins
   - config
   - data
-  - accounts
 SyncNotice: null
 sync:
   on_save: true
