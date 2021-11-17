@@ -24,6 +24,7 @@ Will CarrotProxy slow down my Internet?
 
 Will CarrotProxy affect Internet speed for Stadia? 
 > No, while HTTP traffic from you to Stadia will be indeed proxied through CarrotProxy affecting speed for pages like Store, it will be barely noticeable.
+> 
 > Most important is that UDP packets with game stream will go directly from Stadia servers to you not affecting Internet speed.
 > 
 > More info can be found on How it works
