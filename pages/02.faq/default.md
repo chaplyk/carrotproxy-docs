@@ -12,7 +12,7 @@ Yes, we offer 3 days of free trial.
 
 No, we do not ask for payment details when you sign up for a service.
 
-Moreover, we do not charge you when purchased service ends. You have to confirm renewal each month.
+Moreover, we do not charge you when purchased service ends. You have to purchase renewal each month.
 
 **Performance**
 
