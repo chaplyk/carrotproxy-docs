@@ -12,6 +12,7 @@ Will you charge me if I forget to cancel?
 Moreover, we do not charge you when purchased service ends. You have to confirm renewal each month.
 
 **Performance**
+
 What are network requirements for playing Stadia with CarrotProxy?
 > Google recommends at least 10 Mbps for 720p, 25 Mbps for 1080p and 35 Mbps for 4K. You can check your Internet speed at https://projectstream.google.com/speedtest
 > 
