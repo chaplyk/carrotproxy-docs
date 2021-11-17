@@ -1,5 +1,6 @@
 ---
 title: 'CarrotProxy Deamon for macOS'
+media_order: 'Screenshot 2021-11-17 at 16.04.26.png,Screenshot 2021-11-17 at 16.06.19.png,Screenshot 2021-11-17 at 16.07.16.png,Screenshot 2021-11-17 at 16.07.41.png'
 visible: true
 ---
 
@@ -15,6 +16,11 @@ It takes advantage of system DNS resolver and changes nameservers for selected d
 
 **Instalation Guide**
 1. Download latest macOS installation binary at
-2. Enter your macOS system password
-3. Enter your CarrotProxy token. You can find it at https://www.carrotproxy.com/account
-4. Select datacenter which you would like to use
+2. Enter your macOS system password and click Next
+![Screenshot%202021-11-17%20at%2016.04.26](Screenshot%202021-11-17%20at%2016.04.26.png "Screenshot%202021-11-17%20at%2016.04.26")
+3. Enter your CarrotProxy token and click Next. You can find it at https://www.carrotproxy.com/account
+![Screenshot%202021-11-17%20at%2016.06.19](Screenshot%202021-11-17%20at%2016.06.19.png "Screenshot%202021-11-17%20at%2016.06.19")
+4. Select datacenter which you would like to use. You can test your latency to different datacenters at https://www.carrotproxy.com/servers
+![Screenshot%202021-11-17%20at%2016.07.16](Screenshot%202021-11-17%20at%2016.07.16.png "Screenshot%202021-11-17%20at%2016.07.16")
+5. If daemon was installed succesfully you will receive Installation completed message
+![Screenshot%202021-11-17%20at%2016.07.41](Screenshot%202021-11-17%20at%2016.07.41.png "Screenshot%202021-11-17%20at%2016.07.41")
