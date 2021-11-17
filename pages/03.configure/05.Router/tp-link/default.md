@@ -9,6 +9,7 @@ visible: true
 ![TP-Link-Login-Img](TP-Link-Login-Img.png "TP-Link-Login-Img")
 3. Go to Network -> WAN
 ![Screenshot%202021-11-17%20at%2015.27.43](Screenshot%202021-11-17%20at%2015.27.43.png "Screenshot%202021-11-17%20at%2015.27.43")
-4. If Dynamic IP connection type is selected tick Use These DNS Servers. With Static IP connection no need to tick.
+4. If Dynamic IP connection type is selected tick Use These DNS Servers. With Static IP connection checkbox is not there.
+
 In Primary DNS type IP address of nearest CarrotProxy DNS server. You can check them at https://www.carrotproxy.com/servers
 ![Screenshot%202021-11-17%20at%2015.29.56](Screenshot%202021-11-17%20at%2015.29.56.png "Screenshot%202021-11-17%20at%2015.29.56")
