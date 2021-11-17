@@ -16,7 +16,7 @@ Moreover, we do not charge you when purchased service ends. You have to confirm 
 What are network requirements for playing Stadia with CarrotProxy?
 > Google recommends at least 10 Mbps for 720p, 25 Mbps for 1080p and 35 Mbps for 4K. You can check your Internet speed at https://projectstream.google.com/speedtest
 > 
-> If you are not located in Stadia supported country, latency is another important measure that will affect your cloud gaming performance. You can check your latency to nearest CarrotProxy server at https://www.carrotproxy.com/servers
+> CarrotProxy recommends latency not higher than 50ms. You can check your latency to nearest CarrotProxy server at https://www.carrotproxy.com/servers
 
 
 Will CarrotProxy slow down my Internet?
