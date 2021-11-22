@@ -1,4 +1,4 @@
 ---
-title: macOS1
+title: macOS
 ---
 
