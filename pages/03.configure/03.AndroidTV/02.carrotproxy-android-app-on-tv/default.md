@@ -1,6 +1,6 @@
 ---
 title: 'CarrotProxy Android App (on TV)'
-media_order: 'Screenshot 2021-11-22 at 22.35.12.png,Screenshot 2021-11-22 at 22.36.40.png,Screenshot 2021-11-22 at 22.37.23.png,Screenshot 2021-11-22 at 22.36.08.png,Screenshot 2021-11-22 at 22.43.06.png,Screenshot 2021-11-22 at 22.45.44.png,Screenshot 2021-11-22 at 22.48.33.png,Screenshot 2021-11-22 at 22.50.35.png,Screenshot 2021-11-22 at 22.51.54.png'
+media_order: 'Screenshot 2021-11-22 at 22.35.12.png,Screenshot 2021-11-22 at 22.36.40.png,Screenshot 2021-11-22 at 22.37.23.png,Screenshot 2021-11-22 at 22.36.08.png,Screenshot 2021-11-22 at 22.43.06.png,Screenshot 2021-11-22 at 22.45.44.png,Screenshot 2021-11-22 at 22.48.33.png,Screenshot 2021-11-22 at 22.50.35.png,Screenshot 2021-11-22 at 22.51.54.png,Screenshot 2021-11-22 at 23.57.14.png'
 ---
 
 1. [Download](https://www.carrotproxy.com/downloads/bin/android/com.carrotproxy.dns_1.0.0_e59cbbb-pure-release.apk) .apk with the latest version of CarrotProxy Android App to your TV and install it.
@@ -19,3 +19,5 @@ media_order: 'Screenshot 2021-11-22 at 22.35.12.png,Screenshot 2021-11-22 at 22.
 ![Screenshot%202021-11-22%20at%2022.50.35](Screenshot%202021-11-22%20at%2022.50.35.png?resize=400)
 9. Click on CarrotProxy Token and enter your application token. You can find it in [Your Account](https://www.carrotproxy.com/account)
 ![Screenshot%202021-11-22%20at%2022.51.54](Screenshot%202021-11-22%20at%2022.51.54.png?resize=400)
+10. In System Settings toogle ON option Activate on boot.
+![Screenshot%202021-11-22%20at%2023.57.14](Screenshot%202021-11-22%20at%2023.57.14.png?resize=400)
