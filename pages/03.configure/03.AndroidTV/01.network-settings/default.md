@@ -1,8 +1,10 @@
 ---
-title: 'Network Settings'
+title: 'AndroidTV IP Settings'
 media_order: 'Screenshot 2021-11-22 at 22.35.12.png,Screenshot 2021-11-23 at 00.49.47.png,Screenshot 2021-11-23 at 00.53.28.png'
 visible: true
 ---
+
+You can quickly configure CarrotProxy on your AndroidTV using built-in IP Settings.
 
 1. Open AndroidTV Settings
 ![Screenshot%202021-11-22%20at%2022.35.12](Screenshot%202021-11-22%20at%2022.35.12.png?resize=400)
