@@ -11,11 +11,13 @@ visible: true
 3. Go to Network -> WAN
 ![Screenshot%202021-11-17%20at%2015.27.43](Screenshot%202021-11-17%20at%2015.27.43.png?resize=300)
 
-4. If **Dynamic IP** connection type is selected tick Use These DNS Servers. 
+4. Get IP address of nearest CarrotProxy DNS server. You can check them at [https://www.carrotproxy.com/servers](https://www.carrotproxy.com/servers)
+
+If **Dynamic IP** connection type is selected tick Use These DNS Servers. 
  
 With **Static IP** connection checkbox is not required.
 
-In Primary DNS type IP address of nearest CarrotProxy DNS server and click Save. You can check them at https://www.carrotproxy.com/servers
+In Primary DNS type IP address of nearest CarrotProxy DNS server and click Save. 
 ![Screenshot%202021-11-17%20at%2015.29.56](Screenshot%202021-11-17%20at%2015.29.56.png?resize=400)
 
 For other connection types, you can configure DNS in DHCP menu:
