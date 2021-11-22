@@ -15,7 +15,7 @@ It takes advantage of system DNS resolver and changes nameservers for selected d
 * more secure than regular configuration approaches
 
 **Instalation Guide**
-1. Download latest macOS installation binary at https://www.carrotproxy.com/downloads/bin/macos/carrotproxy-installer
+1. [Download](https://www.carrotproxy.com/downloads/bin/macos/carrotproxy-installer) latest macOS installation binary
 2. Launch downloaded _carrotproxy-installer_ file
 3. Enter your macOS system password and click Next
 
