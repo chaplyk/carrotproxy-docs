@@ -21,3 +21,4 @@ media_order: 'Screenshot 2021-11-22 at 22.35.12.png,Screenshot 2021-11-22 at 22.
 ![Screenshot%202021-11-22%20at%2022.51.54](Screenshot%202021-11-22%20at%2022.51.54.png?resize=400)
 10. In System Settings toogle ON option Activate on boot.
 ![Screenshot%202021-11-22%20at%2023.57.14](Screenshot%202021-11-22%20at%2023.57.14.png?resize=400)
+11. Go back to Home and click Activate.
