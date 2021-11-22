@@ -23,7 +23,7 @@ It takes advantage of system DNS resolver and changes nameservers for selected d
 4. Enter your CarrotProxy token and click Next. You can find it in [Your Account](https://www.carrotproxy.com/account) 
 
 ![Screenshot%202021-11-17%20at%2016.06.19](Screenshot%202021-11-17%20at%2016.06.19.png?resize=500)
-5. Select datacenter which you would like to use. You can test your latency to different datacenters at https://www.carrotproxy.com/servers
+5. Select datacenter which you would like to use. You can test your latency to different datacenters at [https://www.carrotproxy.com/servers](https://www.carrotproxy.com/servers)
 
 ![Screenshot%202021-11-17%20at%2016.07.16](Screenshot%202021-11-17%20at%2016.07.16.png?resize=400)
 6. If daemon was installed succesfully you will receive Installation completed message
