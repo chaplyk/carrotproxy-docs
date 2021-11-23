@@ -2,7 +2,7 @@
 title: Documentation
 ---
 
-Work In Progress
+### Work In Progress
 
 This documentation is work in progress and not complete. 
 
