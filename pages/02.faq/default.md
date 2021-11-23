@@ -14,6 +14,10 @@ No, we do not ask for payment details when you sign up for a service.
 
 Moreover, we do not charge you when purchased service ends. You have to purchase renewal each month.
 
+>I am unable to pay because amount due is less than 1 USD.
+
+Payment system does not accept payments less than 1 USD. However, on checkout page you can switch to EUR which does not have this limit.
+
 **Performance**
 
 >What are network requirements for playing Stadia with CarrotProxy?
