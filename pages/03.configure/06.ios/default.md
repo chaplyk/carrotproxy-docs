@@ -4,8 +4,7 @@ title: iPhone/iPad
 
 The only way to use CarrotProxy on iOS devices is changing DNS servers for WI-FI connection. 
 
-Please note that CarrotProxy will not work on Cellular Data with this configuration.
-
+Please note that CarrotProxy will not work on Cellular Data with this configuration
 
 **Configuration Guide**
 
