@@ -1,6 +1,6 @@
 ---
 title: 'System Preferences'
-media_order: 'Screenshot 2021-11-23 at 09.50.25.png,Screenshot 2021-11-23 at 10.29.26.jpg,Screenshot 2021-11-23 at 10.32.45.png,Screenshot 2021-11-23 at 10.40.28.png'
+media_order: 'Screenshot 2021-11-23 at 09.50.25.png,Screenshot 2021-11-23 at 10.29.26.jpg,Screenshot 2021-11-23 at 10.32.45.png,Screenshot 2021-11-23 at 10.40.28.png,Screenshot 2021-11-23 at 10.42.25.png'
 visible: true
 ---
 
@@ -21,5 +21,6 @@ If your ISP provider does not provide you a with static public IP address, you w
 ![Screenshot%202021-11-23%20at%2010.32.45](Screenshot%202021-11-23%20at%2010.32.45.png?resize=400)
 7. Enter IP address of CarrotProxy DNS server. You can check available servers, their IP address (make sure you are logged in) and test latency at [https://www.carrotproxy.com/servers](https://www.carrotproxy.com/servers)
 8. Click OK
+![Screenshot%202021-11-23%20at%2010.42.25](Screenshot%202021-11-23%20at%2010.42.25.png?resize=400)
 9. Click Apply
 ![Screenshot%202021-11-23%20at%2010.40.28](Screenshot%202021-11-23%20at%2010.40.28.png?resize=400)
