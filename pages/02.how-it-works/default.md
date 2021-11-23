@@ -1,5 +1,5 @@
 ---
-title: 'How it works'
+title: 'How It Works'
 ---
 
 [mermaid]
