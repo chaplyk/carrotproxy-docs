@@ -18,4 +18,4 @@ CarrotProxy client for Windows is still in development and this is the recommend
 6. Uncheck the Internet Protocol Version 6 (TCP/IPv6) and double-click on Internet Protocol Version 4 (TCP/IPv4)
 ![Screenshot%202021-11-23%20at%2012.57.56](Screenshot%202021-11-23%20at%2012.57.56.png?resize=400)
 7. In the General tab click on Use the following DNS server addresses and type IP addresses of nearest CarrotProxy DNS server. You can check available servers, their IP address (make sure you are logged in) and test latency at [https://www.carrotproxy.com/servers](https://www.carrotproxy.com/servers)
-8. Cick OK in all windows.
+8. Cick OK to close all windows.
