@@ -18,11 +18,7 @@ This feature is not available at this moment. You have to purchase renewal each 
 
 **Payment**
 
->I am unable to pay because amount due is less than 1 USD.
-
-Payment system does not accept payments less than 1 USD. However, on checkout page you can switch to EUR which does not have the limit.
-
->I have troubles with my payment.
+>What countries are supported?
 
 At this moment we accept payments from Armenia, Belarus, Bulgaria, Croatia, Czech Republic, Estonia, Greece, Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Luxemburg, Malta, Russia, Turkey, Ukraine and Uzbekistan.
 
