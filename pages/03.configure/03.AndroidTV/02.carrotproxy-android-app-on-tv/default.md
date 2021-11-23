@@ -9,8 +9,7 @@ Also, if changing DNS has caused issues with other applications on your TV, you 
 
 The other great feature is automatic whitelist of your public IP address in CarrotProxy account if it changes. 
 
-Here are the steps how to install CarrotProxy App on AndroidTV:
-
+**Instalation Guide**
 1. [Download](https://www.carrotproxy.com/downloads/bin/android/com.carrotproxy.dns_1.0.0_e59cbbb-pure-release.apk) .apk with the latest version of CarrotProxy Android App to your TV and install it.
 2. If the app has not started automatically open it from to Settings -> Apps -> See All Apps -> CarrotProxy
 ![Screenshot%202021-11-22%20at%2022.35.12](Screenshot%202021-11-22%20at%2022.35.12.png?resize=350)
