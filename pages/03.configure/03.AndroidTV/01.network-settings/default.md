@@ -8,6 +8,8 @@ You can quickly configure CarrotProxy on your AndroidTV using built-in IP Settin
 
 Please note that the following solution might not work if you are using IPv6. In such case, you can install CarrotProxy Android App.
 
+Also, if your provider does not provide you a with static public IP address, you will have to re-save your IP addess in CarrotProxy Accounts via website in case it changes.
+
 1. Open AndroidTV Settings
 ![Screenshot%202021-11-22%20at%2022.35.12](Screenshot%202021-11-22%20at%2022.35.12.png?resize=400)
 2. Go to Network & Internet![Screenshot%202021-11-23%20at%2000.49.47](Screenshot%202021-11-23%20at%2000.49.47.png?resize=400)
