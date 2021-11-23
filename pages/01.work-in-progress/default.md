@@ -1,6 +1,8 @@
 ---
-title: 'Work In Progress'
+title: Documentation
 ---
+
+Work In Progress
 
 This documentation is work in progress and not complete. 
 
