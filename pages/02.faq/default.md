@@ -12,11 +12,13 @@ Yes, we offer 3 days of free trial.
 
 No, we do not ask for payment details when you sign up for a service.
 
-Moreover, we do not charge you when purchased service ends. You have to purchase renewal each month.
+>Can you renew subscription automatically?
+
+This feature is not available at this moment. You have to purchase renewal each month.
 
 >I am unable to pay because amount due is less than 1 USD.
 
-Payment system does not accept payments less than 1 USD. However, on checkout page you can switch to EUR which does not have this limit.
+Payment system does not accept payments less than 1 USD. However, on checkout page you can switch to EUR which does not have the limit.
 
 **Performance**
 
