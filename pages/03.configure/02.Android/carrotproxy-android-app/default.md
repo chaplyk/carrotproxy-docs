@@ -4,6 +4,16 @@ media_order: 'photo_2021-11-22_12-31-06.jpg,photo_2021-11-22_12-32-21.jpg,photo_
 visible: true
 ---
 
+Recommended solution for Android is our official CarrotProxy Android App
+
+It mimics a local VPN with CarrotProxy DNS servers in front of it.
+
+**Why CarrotProxy Android App**
+* brief and simple configuration process
+* App Filter that allows to enable CarrotProxy for specific apps only
+* automatically update your CarrotProxy account IP address in case your public IP address changes
+
+**Instalation Guide**
 1. [Download](https://www.carrotproxy.com/downloads/bin/android/com.carrotproxy.dns_1.0.0_e59cbbb-pure-release.apk) latest version of CarrotProxy Android App to your phone.
 2. Install downloaded .apk (allow installing from third-party vendors if required) and launch the app
 3. Click on three dashes in left top corner to open menu
