@@ -7,6 +7,8 @@ If you do not have ability to configure static IP on your AndroidTV, you are usi
 
 Also, if changing DNS has caused issues with other applications on your TV, you can use App Filter feature on CarrotProxy Android App to restrict/allow only specific apps.
 
+The other great feature is automatic whitelist of your public IP address in CarrotProxy account if it changes. 
+
 Here are the steps how to install CarrotProxy App on AndroidTV:
 
 1. [Download](https://www.carrotproxy.com/downloads/bin/android/com.carrotproxy.dns_1.0.0_e59cbbb-pure-release.apk) .apk with the latest version of CarrotProxy Android App to your TV and install it.
