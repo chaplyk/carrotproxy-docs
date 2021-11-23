@@ -16,9 +16,15 @@ No, we do not ask for payment details when you sign up for a service.
 
 This feature is not available at this moment. You have to purchase renewal each month.
 
+**Payment**
+
 >I am unable to pay because amount due is less than 1 USD.
 
 Payment system does not accept payments less than 1 USD. However, on checkout page you can switch to EUR which does not have the limit.
+
+>I have troubles with my payment.
+
+At this moment we accept payments from Bulgaria, Greece, Estonia, Latvia, Lithuania, Luxemburg, Malta, Croatia, Czech Republic, Russia, Belarus, Kazakhstan, Uzbekistan, Kyrgyzstan, Armenia and Turkey.
 
 **Performance**
 
