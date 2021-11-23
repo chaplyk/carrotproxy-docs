@@ -24,7 +24,9 @@ Payment system does not accept payments less than 1 USD. However, on checkout pa
 
 >I have troubles with my payment.
 
-At this moment we accept payments from Bulgaria, Greece, Estonia, Latvia, Lithuania, Luxemburg, Malta, Croatia, Czech Republic, Russia, Belarus, Kazakhstan, Uzbekistan, Kyrgyzstan, Armenia and Turkey.
+At this moment we accept payments from Armenia, Belarus, Bulgaria, Croatia, Czech Republic, Estonia, Greece, Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Luxemburg, Malta, Russia, Turkey, Ukraine and Uzbekistan.
+
+For Ukraine please switch currency to UAH.
 
 **Performance**
 
