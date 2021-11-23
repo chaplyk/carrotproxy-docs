@@ -1,5 +1,6 @@
 ---
 title: 'System Preferences'
+media_order: 'Screenshot 2021-11-23 at 09.50.25.png'
 visible: true
 ---
 
@@ -10,3 +11,4 @@ Please note that this would resolve all domain names using CarrotProxy DNS (non-
 If your ISP provider does not provide you a with static public IP address, you will have to re-save your IP address in CarrotProxy Accounts via website in case it changes. CarrotProxy Daemon for macOS automatically updates your account IP address in case it changes.
 
 **Configuration Guide**
+1. Open macOS System Preferences
