@@ -32,7 +32,6 @@ Google recommends at least 10 Mbps for 720p, 25 Mbps for 1080p and 35 Mbps for 4
 
 CarrotProxy recommends latency not higher than 60ms. You can check your latency to nearest CarrotProxy server at [https://www.carrotproxy.com/servers](https://projectstream.google.com/speedtest)
 
-
 >Will CarrotProxy slow down my Internet?
 
 No, CarrotProxy does not affect any traffic other than Stadia.
