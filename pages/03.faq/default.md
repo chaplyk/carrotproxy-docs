@@ -30,7 +30,7 @@ For Ukraine please switch currency to UAH.
 
 Google recommends at least 10 Mbps for 720p, 25 Mbps for 1080p and 35 Mbps for 4K. You can check your Internet speed at [https://projectstream.google.com/speedtest](https://projectstream.google.com/speedtest)
 
-CarrotProxy recommends latency not higher than 50ms. You can check your latency to nearest CarrotProxy server at [https://www.carrotproxy.com/servers](https://projectstream.google.com/speedtest)
+CarrotProxy recommends latency not higher than 60ms. You can check your latency to nearest CarrotProxy server at [https://www.carrotproxy.com/servers](https://projectstream.google.com/speedtest)
 
 
 >Will CarrotProxy slow down my Internet?

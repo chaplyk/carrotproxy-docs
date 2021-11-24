@@ -1,15 +1,15 @@
-last_checked: 1637674476
+last_checked: 1637739005
 data:
   -
     title: 'macOS 12.0 Monterey Apache Setup: LetsEncrypt SSL'
     url: 'https://getgrav.org/blog/macos-monterey-apache-ssl'
     date: 1635591780
-    nicetime: '3 weeks ago'
+    nicetime: '4 weeks ago'
   -
     title: 'macOS 12.0 Monterey Apache Setup: MySQL, Xdebug & More...'
     url: 'https://getgrav.org/blog/macos-monterey-apache-mysql-vhost-apc'
     date: 1635591600
-    nicetime: '3 weeks ago'
+    nicetime: '4 weeks ago'
   -
     title: 'macOS 12.0 Monterey Apache Setup: Multiple PHP Versions'
     url: 'https://getgrav.org/blog/macos-monterey-apache-multiple-php-versions'
